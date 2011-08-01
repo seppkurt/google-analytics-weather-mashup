@@ -2,3 +2,6 @@ read this before:
 http://stackoverflow.com/questions/6791273/is-there-a-way-to-combine-the-data-of-google-analytics-and-the-weather
 
 As a google analytics user I want to know if my tracking data correlates with the weather. Are there more people online when it rains outside?
+
+* To what level of location do/can we (need to) aggregate (city, region, country)?
+* where is the information dsiplayed: inside GA or on a separate page
