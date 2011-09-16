@@ -5,3 +5,6 @@ As a google analytics user I want to know if my tracking data correlates with th
 
 * To what level of location do/can we (need to) aggregate (city, region, country)?
 * where is the information dsiplayed: inside GA or on a separate page
+
+google weather api
+http://blog.programmableweb.com/2010/02/08/googles-secret-weather-api/
